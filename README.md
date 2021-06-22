@@ -12,7 +12,7 @@ Docker Environment
 ---
 Kubernetes & Minikube Environment
   
-  $ git clone 
+  $ git clone https://github.com/Ashokmurugan48/time-date-go.git
   $ cd time-date-go
   $ kubectl create -f deployment.yaml
   $ kubectl create -f service.yaml
